@@ -7,7 +7,7 @@ public class APervoe {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите возраст");
         int vozrast = scanner.nextInt();
-        System.out.println(" Вам " +vozrast + "лет");
+        System.out.println(" Вам " +vozrast + " лет");
       }
 
 }
