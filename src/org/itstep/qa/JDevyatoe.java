@@ -2,7 +2,7 @@ package org.itstep.qa;
 
 import java.util.Scanner;
 
-public class Treugolnik {
+public class JDevyatoe {
     public static void main(String[] args) {
         //Ввести катеты прямоугольного треугольника. Вывести его гипотенузу и площадь.
         Scanner scanner = new Scanner(System.in);

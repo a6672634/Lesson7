@@ -2,7 +2,7 @@ package org.itstep.qa;
 
 import java.util.Scanner;
 
-public class ChetNechot {
+public class BVtoroe {
     public static void main(String[] args) {
         //Пользователь вводит целое число. Если число четное, то прибавить к нему 2,
         //а если нечетное, то 1. Вывести результат

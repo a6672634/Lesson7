@@ -2,7 +2,7 @@ package org.itstep.qa;
 
 import java.util.Scanner;
 
-public class Srednee {
+public class IVosmoe {
     public static void main(String[] args) {
         //Ввести два действительных положительных числа. Вывести среднее арифмитическое и среднее геометрическое
         //этих чисел

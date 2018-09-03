@@ -2,7 +2,7 @@ package org.itstep.qa;
 
 import java.util.Scanner;
 // вывести два числа и поменять их, а портом вывести оба значения.
-public class Zamena {
+public class CTretye {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Переменная 1");
